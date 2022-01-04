@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 006</string>
+    <string name="hello">Open Handset Alliance, 5 Kasım 2007\'de Android\'i kurduğunu duyurmuştur ve ardından 34 adet donanım, yazılım ve telekom şirketi, mobil cihazlar için telif hakkı olmayan bir işletim sisteminin teknolojinin gelişimi için yararlı olduğu konusunda hemfikir olmuşlardır.
+Android, Linux çekirdegi üzerine insa edilmis bir mobil isletim sistemidir. Bu sistem ara katman yazılımı, kütüphaneler ve API C diliyle yazılmıstır. Uygulama yazılımları ise, Apache harmony üzerine kurulu Java-uyumlu kütüphaneleri içine alan uygulama iskeleti üzerinden çalısmaktadır. Android, derlenmis Java kodunu çalıstırmak için dinamik çevirmeli (JIT) Dalvik sanal makinasını kullanır ve cihazların fonksiyonelligini artıran uygulamaların gelistirilmesi için çalısan genis bir programcı-gelistirici çevresine sahiptir.
+ \n\nOpen Handset Alliance, 5 Kasım 2007\'de Android\'i kurduğunu duyurmuştur ve ardından 34 adet donanım, yazılım ve telekom şirketi, mobil cihazlar için telif hakkı olmayan bir işletim sisteminin teknolojinin gelişimi için yararlı olduğu konusunda hemfikir olmuşlardır.
+Android, Linux çekirdegi üzerine insa edilmis bir mobil isletim sistemidir. Bu sistem ara katman yazılımı, kütüphaneler ve API C diliyle yazılmıstır. Uygulama yazılımları ise, Apache harmony üzerine kurulu Java-uyumlu kütüphaneleri içine alan uygulama iskeleti üzerinden çalısmaktadır. Android, derlenmis Java kodunu çalıstırmak için dinamik çevirmeli (JIT) Dalvik sanal makinasını kullanır ve cihazların fonksiyonelligini artıran uygulamaların gelistirilmesi için çalısan genis bir programcı-gelistirici çevresine sahiptir.
+
+    </string>
+</resources>

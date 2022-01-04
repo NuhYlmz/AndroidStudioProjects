@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 009</string>
+
+    <array name="Cihazlar">
+        <item>İos</item>
+        <item>Android</item>
+        <item>Windows Phone</item>
+    </array>
+</resources>

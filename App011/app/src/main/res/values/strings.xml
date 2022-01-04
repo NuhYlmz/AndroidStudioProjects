@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App 011</string>
+    <array name="renkler">
+        <item>Beyaz</item>
+        <item>Kırmızı</item>
+        <item>Mavi</item>
+        <item>Yeşil</item>
+    </array>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App 012</string>
+    <array name="iller">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+        <item>İzmir</item>
+        <item>Bursa</item>
+        <item>Adana</item>
+        <item>Mersin</item>
+        <item>Hatay</item>
+        <item>Van</item>
+        <item>Antalya</item>
+        <item>Eskişehir</item>
+        <item>Kocaeli</item>
+        <item>Trabzon</item>
+    </array>
+</resources>
